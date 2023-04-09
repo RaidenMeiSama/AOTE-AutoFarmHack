@@ -330,8 +330,8 @@ pcall(function() game.StarterGui:SetCore("SendNotification", {
 }) end)
 
 pcall(function() game.StarterGui:SetCore("SendNotification", {
-    Title = "made by jsn#0499";
-    Text = "made by jsn#0499, if u have bugs or questions dm me";
+    Title = "made by Astolfo#5350";
+    Text = "made by Astolfo#5350, if u have bugs or questions dm me";
     Icon = "rbxassetid://57254792";
     Duration = 1337;
 }) end)
